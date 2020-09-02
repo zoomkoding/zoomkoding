@@ -1,4 +1,4 @@
-## 협업을 배워가고 있는 책임감 있는 개발 덕후 `줌코딩`입니다.
+### 협업을 배워가고 있는 개발 덕후 줌코딩 👏
 ![zoomKoding's github stats](https://github-readme-stats.vercel.app/api?username=zoomkoding&count_private=true&theme=radical)
 
 <!--
