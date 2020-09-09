@@ -1,6 +1,11 @@
 ### 협업을 배워가고 있는 개발 덕후 줌코딩 👏
 ![zoomKoding's github stats](https://github-readme-stats.vercel.app/api?username=zoomkoding&count_private=true&theme=radical)
 
+### 주요 경험들 💪
+- [\[2019-12 ~ 2020-06\] 📱 스타트업에서 1인 모바일 앱 개발 및 유지 보수 진행(Flutter & Node)](https://zoomkoding.github.io/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85/%ED%9A%8C%EA%B3%A0/2020/06/30/start-up-retrospection.html)
+- [\[2020-07 ~ 2020-08\] 👩‍👩‍👦‍👦 우아한테크캠프(웹프론트엔드 중심) 참여](https://woowabros.github.io/devrel/2020/08/19/techcamp_july_2.html#%EC%A0%95%EC%A7%84%ED%98%81%EB%8B%98%EC%9D%98-%EA%B8%80)
+
+
 <!--
 **zoomKoding/zoomKoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
