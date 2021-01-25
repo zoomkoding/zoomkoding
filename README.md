@@ -2,7 +2,7 @@
 
 ### Experiences 💪
 - [\[2019-12 ~ 2020-06\] 📱 Developed Picky(Skincare Made Smarter) using Flutter & Node](https://apps.apple.com/app/picky-skincare-made-smarter/id1504197356)
-- [\[2020-07 ~ 2020-08\] 👩‍👩‍👦‍👦 Participated in Woowa Tech Camp of Woowa Bros using ](https://woowabros.github.io/devrel/2020/08/19/techcamp_july_2.html#%EC%A0%95%EC%A7%84%ED%98%81%EB%8B%98%EC%9D%98-%EA%B8%80)
+- [\[2020-07 ~ 2020-08\] 👩‍👩‍👦‍👦 Participated in 2020 Woowa Tech Camp of Woowa Bros](https://woowabros.github.io/devrel/2020/08/19/techcamp_july_2.html#%EC%A0%95%EC%A7%84%ED%98%81%EB%8B%98%EC%9D%98-%EA%B8%80)
 
 
 <!--
