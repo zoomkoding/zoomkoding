@@ -68,7 +68,7 @@
 
 #### \[2021.01 ~        \] 🧩 대학시간(대학교 수강신청 보조 웹 앱) 개발
 <details>
-  <summary>Repos</summary>
+  <summary>Links</summary>
   <p>
 
   * [홈페이지](http://www.timetable.college/handong)
