@@ -5,7 +5,7 @@
 
 ## 🪂 Experiences 
 
-### \[2019.12 ~ 2020.06\] 📱 Developed Picky(Skincare Made Smarter) using Flutter & Node
+### \[2019.12 ~ 2020.06\] 📱 Picky(스킨케어 제품 분석 모바일 앱) 개발
 
 <details>
   <summary>Links</summary>
@@ -28,7 +28,7 @@
 </details>
 
 
-### \[2020,07 ~ 2020.08\] 👩‍👩‍👦‍👦 Participated in 2020 Woowa Tech Camp of Woowa Bros
+### \[2020,07 ~ 2020.08\] 👩‍👩‍👦‍👦 2020 웹 중심 우아한테크캠프 참여
 <details>
   <summary>Repos</summary>
   <p>
@@ -51,7 +51,7 @@
   </p>
 </details>
 
-### \[2020.10 ~ 2020.12\] 👨🏻‍💼 Developed JobGate(Public Institution Recruitment Provider) using Flutter & Node
+### \[2020.10 ~ 2020.12\] 👨🏻‍💼 JobGate(공공기관 채용정보 제공 모바일 앱) 개발
 
 <details>
   <summary>Links</summary>
@@ -64,7 +64,7 @@
 </details>
 
 
-### \[2021.01 ~        \] 🧩 Developed College Timetable(Course Registration Assistant Web) using React & Node
+### \[2021.01 ~        \] 🧩 대학시간(대학교 수강신청 보조 웹 앱) 개발
 <details>
   <summary>Repos</summary>
   <p>
