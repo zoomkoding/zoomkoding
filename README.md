@@ -1,5 +1,5 @@
 ## zoomkoding
-안녕하세요! 개발자 줌코딩입니다!🖖  
+안녕하세요! 어플리케이션 개발자 줌코딩입니다!🖖  
 
 ![zoomKoding's github stats](https://github-readme-stats.vercel.app/api?username=zoomkoding&count_private=true&theme=radical)
 
