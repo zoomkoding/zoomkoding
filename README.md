@@ -1,7 +1,9 @@
-## zoomkoding
-안녕하세요! 어플리케이션 개발자 줌코딩입니다!🖖  
+## 🖖 소개
+안녕하세요! 서비스 개발자 **줌코딩**입니다!🖖  
 
-![zoomKoding's github stats](https://github-readme-stats.vercel.app/api?username=zoomkoding&count_private=true&theme=radical)
+* 모든 종류의 서비스 개발에 관심 있습니다🤓
+* 글쓰기를 좋아합니다!([줌코딩의 코딩 일기](https://zoomkoding.github.io/))
+
 
 ## 🪂 Experiences 
 
