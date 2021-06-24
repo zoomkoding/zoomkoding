@@ -1,10 +1,5 @@
 ## 👋 소개
-안녕하세요! 성장하고 있는 개발자 **줌코딩**입니다!  
-
-* 개인 블로그를 직접 개발하여 운영하고 있습니다.✨ 
-* 블로그 URL: [www.zoomkoding.com](https://www.zoomkoding.com)
-
-> 테마가 맘에 드신다면 [여기](https://github.com/zoomkoding/gatsby-starter-zoomkoding)를 참고해주세요 ❤️
+안녕하세요! 배우고 경험하고 글로 정리하는 개발자 **줌코딩**입니다!  
 
 
 <!--
